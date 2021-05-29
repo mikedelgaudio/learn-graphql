@@ -7,5 +7,5 @@ ws.addEventListener("open", () => {
 });
 
 ws.addEventListener("message", (e) => {
-  console.log(e);
+  console.log(e + "hello");
 });
