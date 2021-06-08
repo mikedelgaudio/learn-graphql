@@ -5,4 +5,4 @@ This repo is a sandbox environment to practice and utilize GraphQL!
 - Learning CSS-Grid
 - Learning Webpack
 - Learning WebSockets
-- and much more!!
+- and much more!
