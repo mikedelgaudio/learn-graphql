@@ -441,7 +441,9 @@
           console.log(str);
           const item = document.body.innerHTML.search(str);
           console.log(item);
-          window.find(str);
+          //window.find(str);
+          let i = document.body.innerText.indexOf(str);
+          console.log(i);
         } else {
           console.log("no hash found");
         }
