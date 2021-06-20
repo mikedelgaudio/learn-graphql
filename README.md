@@ -1,4 +1,4 @@
-# Learning Web Dev
+# Learning Web Dev Tools
 
 This repo is a sandbox environment to practice and utilize GraphQL!
 - Learning GraphQL
